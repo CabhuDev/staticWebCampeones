@@ -1,3 +1,5 @@
+# Página web informativa inspirada en la famosa serie de anime "Captain Tsubasa"
+
 Este proyecto es una página web informativa inspirada en la famosa serie de anime "Captain Tsubasa" (también conocida como "Campeones"). La web está diseñada de forma responsiva, lo cual la hace adecuada tanto para dispositivos de escritorio como para móviles.
 
 La página está organizada en varias secciones, incluyendo información sobre personajes, eventos relacionados con el fútbol, y una sección de contacto. El diseño tiene un enfoque moderno y vibrante para reflejar la energía y emoción del anime, utilizando colores brillantes y contenido visual atractivo.
