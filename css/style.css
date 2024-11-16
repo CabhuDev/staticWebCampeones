@@ -413,7 +413,7 @@ body {
 
     .main-content {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
 
     }
 
